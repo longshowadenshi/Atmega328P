@@ -1,0 +1,755 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:\Users\hplon\OneDrive\デスクトップ\New folder\kicad\Atmega328N\Atmega328N.sch</source>
+    <date>08/03/2022 11:50:12</date>
+    <tool>Eeschema (5.1.10)-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Atmega328N.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="CN7">
+      <value>MJ-179P</value>
+      <datasheet>MJ-179P</datasheet>
+      <libsource lib="cp1_small" part="MJ-179P" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62219E9E</tstamp>
+    </comp>
+    <comp ref="U2">
+      <value>NJM2391DL1-33</value>
+      <datasheet>NJM2391DL1-33</datasheet>
+      <libsource lib="EthernetShield-cache" part="NJM2391DL1-33_NJM2391DL1-33" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6221A5ED</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>1uf</value>
+      <datasheet>0603YD105KAT2A</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6221C5D2</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>1S4</value>
+      <datasheet>1S4</datasheet>
+      <libsource lib="Diode" part="diode" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6221D6DD</tstamp>
+    </comp>
+    <comp ref="LED1">
+      <value>LED</value>
+      <libsource lib="EthernetShield-cache" part="LED__LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6221DFC7</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>330</value>
+      <datasheet>RC0603J-330R</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6221E7F1</tstamp>
+    </comp>
+    <comp ref="CN2">
+      <value>jumper</value>
+      <libsource lib="EthernetShield-cache" part="jumper_jumper_" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62220ABD</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>NJM78M05FA</value>
+      <datasheet>NJM78M05FA</datasheet>
+      <libsource lib="HR-SC04-FullLogic-cache" part="NJM78M05FA_NJM78M05FA" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62221D07</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>10uf</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="CP1_Small" description="Polarized capacitor, small US symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6222A80B</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>10uf</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="CP1_Small" description="Polarized capacitor, small US symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6222BEC0</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>1S4</value>
+      <datasheet>1S4</datasheet>
+      <libsource lib="Diode" part="diode" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6223183C</tstamp>
+    </comp>
+    <comp ref="C7">
+      <value>10uf</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="CP1_Small" description="Polarized capacitor, small US symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62232D84</tstamp>
+    </comp>
+    <comp ref="SW1">
+      <value>SKHHBY</value>
+      <datasheet>SKHHBY</datasheet>
+      <libsource lib="sw_skhhby" part="SKHHBY" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6223BDA3</tstamp>
+    </comp>
+    <comp ref="U4">
+      <value>Atmega328P</value>
+      <datasheet>Atmega328P</datasheet>
+      <libsource lib="Atmega328P" part="Atmega328P" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62240B14</tstamp>
+    </comp>
+    <comp ref="Y2">
+      <value>16MHz</value>
+      <datasheet>HC49-16MHz</datasheet>
+      <libsource lib="Device" part="Crystal" description="Two pin crystal"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62242315</tstamp>
+    </comp>
+    <comp ref="10k1">
+      <value>R</value>
+      <datasheet>RC0603JR-071KL</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>622497A0</tstamp>
+    </comp>
+    <comp ref="C8">
+      <value>22pF</value>
+      <datasheet>GRM1885C1H220JA01D</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62254F32</tstamp>
+    </comp>
+    <comp ref="C9">
+      <value>22pF</value>
+      <datasheet>GRM1885C1H220JA01D</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62255437</tstamp>
+    </comp>
+    <comp ref="C10">
+      <value>1uf</value>
+      <datasheet>0603YD105KAT2A</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62263ED1</tstamp>
+    </comp>
+    <comp ref="C11">
+      <value>0.1uf</value>
+      <datasheet>C0603C104Z3VACTU</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6226F00A</tstamp>
+    </comp>
+    <comp ref="CN4">
+      <value>CN_6pins</value>
+      <libsource lib="EthernetShield-cache" part="CN_6pins" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6229220E</tstamp>
+    </comp>
+    <comp ref="CN6">
+      <value>CN_8pins</value>
+      <libsource lib="EthernetShield-cache" part="CN_8pins" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6229296E</tstamp>
+    </comp>
+    <comp ref="CN3">
+      <value>CN_8pins_pwr</value>
+      <libsource lib="EthernetShield-cache" part="CN_8pins_pwr" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62292FF3</tstamp>
+    </comp>
+    <comp ref="CN5">
+      <value>CN_10pins</value>
+      <libsource lib="EthernetShield-cache" part="CN_10pins" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62293908</tstamp>
+    </comp>
+    <comp ref="U3">
+      <value>CH340G</value>
+      <datasheet>CH340G</datasheet>
+      <libsource lib="CH340G" part="CH340G" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>622717EC</tstamp>
+    </comp>
+    <comp ref="CN1">
+      <value>USB-B</value>
+      <datasheet>USB-B</datasheet>
+      <libsource lib="cn_connectors" part="USB-B" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62271EA8</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>1uf</value>
+      <datasheet>0603YD105KAT2A</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>622B7BA8</tstamp>
+    </comp>
+    <comp ref="Y1">
+      <value>12MHz</value>
+      <datasheet>HC49-12MHz</datasheet>
+      <libsource lib="Device" part="Crystal" description="Two pin crystal"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>622C9679</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>22pF</value>
+      <datasheet>GRM1885C1H220JA01D</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>622C967F</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>22pF</value>
+      <datasheet>GRM1885C1H220JA01D</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>622C9685</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Atmega328P" part="Atmega328P">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">Atmega328P</field>
+      </fields>
+      <pins>
+        <pin num="1" name="PC6_RST" type="passive"/>
+        <pin num="2" name="PD0_RXD" type="passive"/>
+        <pin num="3" name="PD1_TXD" type="passive"/>
+        <pin num="4" name="DIG2_PD2" type="passive"/>
+        <pin num="5" name="PWM_DIG3_PD3" type="passive"/>
+        <pin num="6" name="DIG4_PD4" type="passive"/>
+        <pin num="7" name="Vcc" type="passive"/>
+        <pin num="8" name="GND" type="passive"/>
+        <pin num="9" name="PB6_XTAL1" type="passive"/>
+        <pin num="10" name="PB7_XTAL2" type="passive"/>
+        <pin num="11" name="PWM_DIG5_PD5" type="passive"/>
+        <pin num="12" name="PWM_DIG6_PD6" type="passive"/>
+        <pin num="13" name="DIG7_PD7" type="passive"/>
+        <pin num="14" name="DIG8_PB0" type="passive"/>
+        <pin num="15" name="PWM_DIG9_PB1" type="passive"/>
+        <pin num="16" name="PWM_DIG10_PB2" type="passive"/>
+        <pin num="17" name="PWM_DIG11_PB3" type="passive"/>
+        <pin num="18" name="DIG12_PB4" type="passive"/>
+        <pin num="19" name="DIG13_PB5" type="passive"/>
+        <pin num="20" name="AVcc" type="passive"/>
+        <pin num="21" name="ARef" type="passive"/>
+        <pin num="22" name="GND" type="passive"/>
+        <pin num="23" name="PC0_ADC0" type="passive"/>
+        <pin num="24" name="PC1_ADC1" type="passive"/>
+        <pin num="25" name="PC2_ADC2" type="passive"/>
+        <pin num="26" name="PC3_ADC3" type="passive"/>
+        <pin num="27" name="PC4_ADC4" type="passive"/>
+        <pin num="28" name="PC5_ADC5" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="CH340G" part="CH340G">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">CH340G</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="passive"/>
+        <pin num="2" name="TXD" type="passive"/>
+        <pin num="3" name="RXD" type="passive"/>
+        <pin num="4" name="V3" type="passive"/>
+        <pin num="5" name="UD+" type="passive"/>
+        <pin num="6" name="UD-" type="passive"/>
+        <pin num="7" name="XI" type="passive"/>
+        <pin num="8" name="XO" type="passive"/>
+        <pin num="9" name="CTS#" type="passive"/>
+        <pin num="10" name="DSR#" type="passive"/>
+        <pin num="11" name="RI#" type="passive"/>
+        <pin num="12" name="DCD#" type="passive"/>
+        <pin num="13" name="DTR#" type="passive"/>
+        <pin num="14" name="RTS#" type="passive"/>
+        <pin num="15" name="R232" type="passive"/>
+        <pin num="16" name="VCC" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="CP1_Small">
+      <description>Polarized capacitor, small US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CP1_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Crystal">
+      <description>Two pin crystal</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="diode">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">diode</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="EthernetShield-cache" part="CN_10pins">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">CN_10pins</field>
+      </fields>
+      <pins>
+        <pin num="1" name="8" type="input"/>
+        <pin num="2" name="9" type="input"/>
+        <pin num="3" name="10" type="input"/>
+        <pin num="4" name="11" type="input"/>
+        <pin num="5" name="12" type="input"/>
+        <pin num="6" name="13" type="input"/>
+        <pin num="7" name="GND" type="input"/>
+        <pin num="8" name="AREF" type="input"/>
+        <pin num="9" name="SDA" type="input"/>
+        <pin num="10" name="SCL" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="EthernetShield-cache" part="CN_6pins">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">CN_6pins</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A5" type="passive"/>
+        <pin num="2" name="A4" type="passive"/>
+        <pin num="3" name="A3" type="passive"/>
+        <pin num="4" name="A2" type="passive"/>
+        <pin num="5" name="A1" type="passive"/>
+        <pin num="6" name="A0" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="EthernetShield-cache" part="CN_8pins">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">CN_8pins</field>
+      </fields>
+      <pins>
+        <pin num="1" name="0" type="input"/>
+        <pin num="2" name="1" type="input"/>
+        <pin num="3" name="2" type="input"/>
+        <pin num="4" name="3" type="passive"/>
+        <pin num="5" name="4" type="input"/>
+        <pin num="6" name="5" type="input"/>
+        <pin num="7" name="6" type="input"/>
+        <pin num="8" name="7" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="EthernetShield-cache" part="CN_8pins_pwr">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">CN_8pins_pwr</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Vin" type="input"/>
+        <pin num="2" name="GND" type="input"/>
+        <pin num="3" name="GND" type="input"/>
+        <pin num="4" name="5V" type="input"/>
+        <pin num="5" name="3.3V" type="input"/>
+        <pin num="6" name="RST" type="input"/>
+        <pin num="7" name="5V" type="input"/>
+        <pin num="8" name="8" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="EthernetShield-cache" part="LED__LED">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LED__LED</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="EthernetShield-cache" part="NJM2391DL1-33_NJM2391DL1-33">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">NJM2391DL1-33_NJM2391DL1-33</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="passive"/>
+        <pin num="2" name="GND" type="passive"/>
+        <pin num="3" name="OUT" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="EthernetShield-cache" part="jumper_jumper_">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">jumper_jumper_</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+        <pin num="3" name="~" type="passive"/>
+        <pin num="4" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="HR-SC04-FullLogic-cache" part="NJM78M05FA_NJM78M05FA">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">NJM78M05FA_NJM78M05FA</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="input"/>
+        <pin num="2" name="GND" type="passive"/>
+        <pin num="3" name="OUT" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="cn_connectors" part="USB-B">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">USB-B</field>
+      </fields>
+      <pins>
+        <pin num="1" name="5V" type="passive"/>
+        <pin num="2" name="D-" type="passive"/>
+        <pin num="3" name="D+" type="passive"/>
+        <pin num="4" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="cp1_small" part="MJ-179P">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MJ-179P</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+        <pin num="3" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="sw_skhhby" part="SKHHBY">
+      <footprints>
+        <fp>SW?DIP?x1*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SKHHBY</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Atmega328P">
+      <uri>C:\Users\hplon\OneDrive\デスクトップ\New folder\kicad\Atmega328N/Atmega328P.lib</uri>
+    </library>
+    <library logical="CH340G">
+      <uri>C:\Users\hplon\OneDrive\デスクトップ\New folder\kicad\Atmega328N/CH340G.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Device.lib</uri>
+    </library>
+    <library logical="Diode">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Diode.lib</uri>
+    </library>
+    <library logical="EthernetShield-cache">
+      <uri>C:/Users/hplon/OneDrive/デスクトップ/New folder/kicad/EthernetShield/EthernetShield-cache.lib</uri>
+    </library>
+    <library logical="HR-SC04-FullLogic-cache">
+      <uri>C:/Users/hplon/OneDrive/デスクトップ/New folder/kicad/HR-SC04-FullLogic/HR-SC04-FullLogic-cache.lib</uri>
+    </library>
+    <library logical="cn_connectors">
+      <uri>C:/Users/hplon/Downloads/kicad_share-main/kicad_share-main/symbol/cn_connectors.lib</uri>
+    </library>
+    <library logical="cp1_small">
+      <uri>C:/Users/hplon/Downloads/kicad_share-main/kicad_share-main/symbol/cp1_small.lib</uri>
+    </library>
+    <library logical="sw_skhhby">
+      <uri>C:/Users/hplon/Downloads/kicad_share-main/kicad_share-main/symbol/sw_skhhby.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/D7">
+      <node ref="CN6" pin="8"/>
+      <node ref="U4" pin="13"/>
+    </net>
+    <net code="2" name="/D13">
+      <node ref="U4" pin="19"/>
+      <node ref="CN5" pin="6"/>
+    </net>
+    <net code="3" name="/D12">
+      <node ref="U4" pin="18"/>
+      <node ref="CN5" pin="5"/>
+    </net>
+    <net code="4" name="/D11">
+      <node ref="CN5" pin="4"/>
+      <node ref="U4" pin="17"/>
+    </net>
+    <net code="5" name="/D10">
+      <node ref="CN5" pin="3"/>
+      <node ref="U4" pin="16"/>
+    </net>
+    <net code="6" name="/D9">
+      <node ref="U4" pin="15"/>
+      <node ref="CN5" pin="2"/>
+    </net>
+    <net code="7" name="/D8">
+      <node ref="CN5" pin="1"/>
+      <node ref="U4" pin="14"/>
+    </net>
+    <net code="8" name="/D6">
+      <node ref="U4" pin="12"/>
+      <node ref="CN6" pin="7"/>
+    </net>
+    <net code="9" name="/D5">
+      <node ref="U4" pin="11"/>
+      <node ref="CN6" pin="6"/>
+    </net>
+    <net code="10" name="/D4">
+      <node ref="CN6" pin="5"/>
+      <node ref="U4" pin="6"/>
+    </net>
+    <net code="11" name="/D3">
+      <node ref="U4" pin="5"/>
+      <node ref="CN6" pin="4"/>
+    </net>
+    <net code="12" name="/D2">
+      <node ref="CN6" pin="3"/>
+      <node ref="U4" pin="4"/>
+    </net>
+    <net code="13" name="/TX">
+      <node ref="U3" pin="3"/>
+      <node ref="CN6" pin="2"/>
+      <node ref="U4" pin="3"/>
+    </net>
+    <net code="14" name="/RX">
+      <node ref="U3" pin="2"/>
+      <node ref="U4" pin="2"/>
+      <node ref="CN6" pin="1"/>
+    </net>
+    <net code="15" name="/A3">
+      <node ref="CN4" pin="3"/>
+      <node ref="U4" pin="26"/>
+    </net>
+    <net code="16" name="+5V">
+      <node ref="U3" pin="16"/>
+      <node ref="10k1" pin="1"/>
+      <node ref="U4" pin="7"/>
+      <node ref="D2" pin="2"/>
+      <node ref="U4" pin="21"/>
+      <node ref="C3" pin="1"/>
+      <node ref="CN2" pin="4"/>
+      <node ref="CN2" pin="2"/>
+      <node ref="C5" pin="1"/>
+      <node ref="U2" pin="1"/>
+      <node ref="CN3" pin="4"/>
+      <node ref="U4" pin="20"/>
+      <node ref="CN3" pin="7"/>
+      <node ref="C11" pin="1"/>
+      <node ref="CN5" pin="8"/>
+      <node ref="R1" pin="1"/>
+    </net>
+    <net code="17" name="+3V3">
+      <node ref="D2" pin="1"/>
+      <node ref="U2" pin="3"/>
+      <node ref="C7" pin="1"/>
+      <node ref="CN3" pin="5"/>
+    </net>
+    <net code="18" name="GND">
+      <node ref="SW1" pin="2"/>
+      <node ref="SW1" pin="1"/>
+      <node ref="CN3" pin="2"/>
+      <node ref="C6" pin="2"/>
+      <node ref="C4" pin="2"/>
+      <node ref="C1" pin="2"/>
+      <node ref="C11" pin="2"/>
+      <node ref="CN5" pin="7"/>
+      <node ref="CN3" pin="3"/>
+      <node ref="C2" pin="2"/>
+      <node ref="CN7" pin="2"/>
+      <node ref="CN7" pin="3"/>
+      <node ref="U2" pin="2"/>
+      <node ref="C5" pin="2"/>
+      <node ref="LED1" pin="2"/>
+      <node ref="U1" pin="2"/>
+      <node ref="U4" pin="8"/>
+      <node ref="CN1" pin="4"/>
+      <node ref="C9" pin="2"/>
+      <node ref="U4" pin="22"/>
+      <node ref="C7" pin="2"/>
+      <node ref="U3" pin="1"/>
+      <node ref="C8" pin="2"/>
+    </net>
+    <net code="19" name="/A2">
+      <node ref="CN4" pin="4"/>
+      <node ref="U4" pin="25"/>
+    </net>
+    <net code="20" name="/A4">
+      <node ref="CN4" pin="2"/>
+      <node ref="CN5" pin="9"/>
+      <node ref="U4" pin="27"/>
+    </net>
+    <net code="21" name="/A5">
+      <node ref="CN5" pin="10"/>
+      <node ref="U4" pin="28"/>
+      <node ref="CN4" pin="1"/>
+    </net>
+    <net code="22" name="/A0">
+      <node ref="CN4" pin="6"/>
+      <node ref="U4" pin="23"/>
+    </net>
+    <net code="23" name="/A1">
+      <node ref="U4" pin="24"/>
+      <node ref="CN4" pin="5"/>
+    </net>
+    <net code="24" name="Net-(CN3-Pad8)">
+      <node ref="CN3" pin="8"/>
+    </net>
+    <net code="25" name="Net-(C4-Pad1)">
+      <node ref="Y1" pin="1"/>
+      <node ref="C4" pin="1"/>
+      <node ref="U3" pin="7"/>
+    </net>
+    <net code="26" name="Net-(U3-Pad11)">
+      <node ref="U3" pin="11"/>
+    </net>
+    <net code="27" name="Net-(U3-Pad12)">
+      <node ref="U3" pin="12"/>
+    </net>
+    <net code="28" name="Net-(U3-Pad14)">
+      <node ref="U3" pin="14"/>
+    </net>
+    <net code="29" name="Net-(U3-Pad15)">
+      <node ref="U3" pin="15"/>
+    </net>
+    <net code="30" name="Net-(C10-Pad2)">
+      <node ref="U3" pin="13"/>
+      <node ref="C10" pin="2"/>
+    </net>
+    <net code="31" name="Net-(C6-Pad1)">
+      <node ref="U3" pin="8"/>
+      <node ref="C6" pin="1"/>
+      <node ref="Y1" pin="2"/>
+    </net>
+    <net code="32" name="Net-(U3-Pad10)">
+      <node ref="U3" pin="10"/>
+    </net>
+    <net code="33" name="Net-(CN1-Pad3)">
+      <node ref="U3" pin="5"/>
+      <node ref="CN1" pin="3"/>
+    </net>
+    <net code="34" name="Net-(CN1-Pad2)">
+      <node ref="U3" pin="6"/>
+      <node ref="CN1" pin="2"/>
+    </net>
+    <net code="35" name="Net-(U3-Pad9)">
+      <node ref="U3" pin="9"/>
+    </net>
+    <net code="36" name="Net-(C3-Pad2)">
+      <node ref="C3" pin="2"/>
+      <node ref="U3" pin="4"/>
+    </net>
+    <net code="37" name="/5v_USB">
+      <node ref="CN1" pin="1"/>
+      <node ref="CN2" pin="1"/>
+    </net>
+    <net code="38" name="/Vin">
+      <node ref="D1" pin="2"/>
+      <node ref="CN7" pin="1"/>
+      <node ref="C1" pin="1"/>
+      <node ref="CN3" pin="1"/>
+      <node ref="U1" pin="1"/>
+    </net>
+    <net code="39" name="/RESET">
+      <node ref="U4" pin="1"/>
+      <node ref="SW1" pin="3"/>
+      <node ref="C10" pin="1"/>
+      <node ref="CN3" pin="6"/>
+      <node ref="SW1" pin="4"/>
+      <node ref="10k1" pin="2"/>
+    </net>
+    <net code="40" name="Net-(LED1-Pad1)">
+      <node ref="R1" pin="2"/>
+      <node ref="LED1" pin="1"/>
+    </net>
+    <net code="41" name="Net-(C2-Pad1)">
+      <node ref="CN2" pin="3"/>
+      <node ref="U1" pin="3"/>
+      <node ref="D1" pin="1"/>
+      <node ref="C2" pin="1"/>
+    </net>
+    <net code="42" name="Net-(C9-Pad1)">
+      <node ref="U4" pin="10"/>
+      <node ref="C9" pin="1"/>
+      <node ref="Y2" pin="2"/>
+    </net>
+    <net code="43" name="Net-(C8-Pad1)">
+      <node ref="U4" pin="9"/>
+      <node ref="C8" pin="1"/>
+      <node ref="Y2" pin="1"/>
+    </net>
+  </nets>
+</export>
